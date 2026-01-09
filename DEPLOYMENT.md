@@ -46,3 +46,4 @@ If emails aren't sending:
 3. Ensure port 587 is not blocked by firewall
 4. For Zoho Mail, you may need to enable "Less Secure Apps" or use an App Password
 
+
